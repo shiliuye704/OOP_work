@@ -1,0 +1,4 @@
+1001 ZhangSan 20
+1002 LiMing 50
+1003 WangHua 5
+1004 ZhaoQiang 80.5
